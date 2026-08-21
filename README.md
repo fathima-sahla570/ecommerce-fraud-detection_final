@@ -117,7 +117,10 @@ Threshold Optimization
 Model Evaluation
       ↓
 Model Saving
-## 👩‍💻 Author
+
+```text
+
+###👩‍💻 Author
 
 **Fathimath Sahla p**
 
@@ -129,6 +132,9 @@ Data Science & Machine Learning Enthusiast
 - SQL
 - Power BI
 - Excel
+
+
+
 ## 🔮 Future Improvements
 
 - Real-time fraud detection
