@@ -165,13 +165,12 @@ Data Science & Machine Learning Enthusiast
 
 | Metric | Score |
 |---|---:|
-| Accuracy | |
-| Precision | |
-| Recall | |
-| F1 Score | |
-| ROC-AUC | |
-| PR-AUC | |
-| MCC | |
+| Accuracy | 99.76%|
+| Precision | 98.92%|
+| Recall | 99.97%|
+| F1 Score |99.44%|
+| PR-AUC |99.99% |
+| MCC |99.29% |
 
 
 
